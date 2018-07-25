@@ -64,7 +64,7 @@ Now, the file has been decrypted.
 
 **Shubham Singh Manhas**-*Tech Lead for this project*
 
-**Satyam Gupta**-*Website designer*
+**Satyam Gupta**-*SRS developer*
 
 *Conceptualized and developed under the guidance of Dr. Ankita Jain Bansal(Faculty of IT at NSIT).*
 
