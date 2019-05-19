@@ -62,9 +62,7 @@ Now, the file has been decrypted.
 
 ## Authors
 
-**Shubham Singh Manhas**-*Tech Lead for this project*
-
-**Satyam Gupta**-*SRS developer*
+**Shubham Singh Manhas** and **Satyam Gupta**
 
 *Conceptualized and developed under the guidance of Dr. Ankita Jain Bansal(Faculty of IT at NSIT).*
 
